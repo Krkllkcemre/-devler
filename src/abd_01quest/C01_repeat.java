@@ -1,6 +1,6 @@
 package abd_01quest;
 
-public class C01_repeat {
+public class C01{
     public static void main(String[] args) {
 
         System.out.println("hello java I'am come");
